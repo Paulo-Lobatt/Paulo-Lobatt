@@ -13,5 +13,5 @@
 
 
 - ## GitHub Statistics
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=radical)
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Paulo-Lobatt&show_icons=true&theme=radical)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?Paulo-Lobatt=seuusuario&layout=compact&theme=radical)
