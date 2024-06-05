@@ -12,4 +12,4 @@ I'm a beginner developer and I'm currently venturing into projects in search of 
 
 ## GitHub Statistics
 ![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=Paulo-Lobatt&show_icons=true&theme=highcontrast)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-Lobatt&layout=compact&theme=synthwave)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-Lobatt&layout=compact&theme=highcontrast)
