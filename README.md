@@ -1,8 +1,17 @@
-## Hello, I'm Paulo Lobato
+## Hello,I'm Paulo Lobato
+
+# About me
+"I'm a beginner developer and I'm currently venturing into projects in search of experience
 
 
-<div align="center">
-  <a href="https://github.com/Paulo-lobatt">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Paulo-lobatt&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-lobatt&layout=compact&langs_count=7&theme=dark"/>
-</div>
+- ## Programming languages
+
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+- ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+- ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+
+- ## GitHub Statistics
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=radical)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&theme=radical)
