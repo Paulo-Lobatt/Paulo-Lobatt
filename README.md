@@ -2,7 +2,7 @@
 ## Hello, I'm Paulo Lobato
 
 ## About Me
-I'm a beginner developer and I'm currently venturing into projects in search of experience.
+I'm a developer.
 
 ## Programming Languages
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
